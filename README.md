@@ -46,7 +46,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 - Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link :https://gray-sea-00e825d10.1.azurestaticapps.net/ </b>
+<b>Project Link :https://victorious-dune-0c590a610.3.azurestaticapps.net/ </b>
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/Akanksha-Verma31/Tourism-Website/blob/main/images/FRT.jpeg" width="700" height= "350"></p></a>  
 
  # SCREENSHOTS
