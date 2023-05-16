@@ -1,4 +1,4 @@
-# <a href="https://gray-sea-00e825d10.1.azurestaticapps.net/">Tourism Website with QnA Bot</a>
+# <a href="https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html">Tourism Website with QnA Bot</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,7 +46,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 - Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link :https://victorious-dune-0c590a610.3.azurestaticapps.net/ </b>
+<b>Project Link :https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html </b>
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/Akanksha-Verma31/Tourism-Website/blob/main/images/FRT.jpeg" width="700" height= "350"></p></a>  
 
  # SCREENSHOTS
