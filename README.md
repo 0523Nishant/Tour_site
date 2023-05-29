@@ -17,7 +17,7 @@ IDE: VS-Code
 <b>Note:</b> Bot is on trial period
 <br><br>
 
-<b> Steps of deployement</b>
+<h2><b> Steps of deployement</b></h2> <br>
 <b>Sign in to the Azure portal:</b> Go to the Azure portal (portal.azure.com) and sign in to your Azure account.
 
 <b>Create a new resource group:</b> Create a resource group to logically organize your resources. Click on "Resource groups" in the left-hand menu, then click "Add" to create a new resource group.
