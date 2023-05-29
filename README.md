@@ -17,6 +17,27 @@ IDE: VS-Code
 <b>Note:</b> Bot is on trial period
 <br><br>
 
+<b> Steps of deployement</b>
+<b>Sign in to the Azure portal:</b> Go to the Azure portal (portal.azure.com) and sign in to your Azure account.
+
+<b>Create a new resource group:</b> Create a resource group to logically organize your resources. Click on "Resource groups" in the left-hand menu, then click "Add" to create a new resource group.
+
+<b>Create a storage account: </b> In the Azure portal, navigate to "Storage accounts" and click "Add". Provide a unique name for your storage account, select the appropriate resource group, and configure other settings as needed. Choose "Static website" as the account kind.
+
+<b>Upload your web app files:</b> Once your storage account is created, navigate to the account in the Azure portal. Open the "Static website" section and note the primary endpoint URL. Use a storage explorer tool or Azure Blob storage interface to upload your static web app files to the $web container.
+
+Test your static web app: Access the primary endpoint URL of your static website (provided in the "Static website" section of your storage account) in a web browser to ensure that your web app is working correctly.
+
+Enable CDN (optional): If you want to improve the performance of your static web app by caching content closer to your users, you can enable Azure Content Delivery Network (CDN) and configure it to work with your storage account.
+
+Monitor and scale (optional): Azure provides various monitoring and scaling options for your static web app. You can set up Azure Monitor to track usage and performance, and scale your storage account or CDN based on your needs.
+
+That's it! Your static web app is now deployed and accessible using the provided endpoint URL.
+
+<b>Project Link :https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html </b>
+
+
+
 ### Industry :
 Lifestyle
 
@@ -46,7 +67,7 @@ The core idea of the Project is to build a sample prototype Tourism Website with
 - Other Azure Technologies :<br>
 >App Service<br>
 
-<b>Project Link :https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html </b>
+
 <a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/Akanksha-Verma31/Tourism-Website/blob/main/images/FRT.jpeg" width="700" height= "350"></p></a>  
 
  # SCREENSHOTS
