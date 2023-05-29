@@ -34,7 +34,7 @@ Monitor and scale (optional): Azure provides various monitoring and scaling opti
 
 That's it! Your static web app is now deployed and accessible using the provided endpoint URL.
 
-<b>Project Link :https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html </b>
+<h1><b>Project Link :https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html </b></h1>
 
 
 
