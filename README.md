@@ -1,11 +1,11 @@
-# <a href="https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html">Tourism Website with QnA Bot</a>
+# <a href="https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html">Tourism Website with Static Web App</a>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-[![Contributors](https://img.shields.io/github/contributors/sn2606/TravelLog.svg?style=for-the-badge)](https://github.com/Akanksha-Verma31/Tourism-Website/graphs/contributors)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/akanksha-verma31/)
+[![Contributors](https://img.shields.io/github/contributors/sn2606/TravelLog.svg?style=for-the-badge)](https://github.com/0523Nishant/Tour_site/graphs/contributors)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555)](https://www.linkedin.com/in/nishantgupta2002/)
 ![Responsive](https://img.shields.io/badge/Responsive-100%25-red)
 
 This is a 4 Page Tourism Front End website design
@@ -14,7 +14,6 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 
 IDE: VS-Code
 
-<b>Note:</b> Bot is on trial period
 <br><br>
 
 <h2><b> Steps of deployement</b></h2> <br>
@@ -35,6 +34,9 @@ Monitor and scale (optional): Azure provides various monitoring and scaling opti
 That's it! Your static web app is now deployed and accessible using the provided endpoint URL.
 
 <h1><b>Project Link :https://lemon-sea-0bbfefa10.3.azurestaticapps.net/index.html </b></h1>
+<br>
+
+<h2><b> Project Demo Video:- https://www.youtube.com/watch?v=NDTA670OlQY</b></h2>
 
 
 
