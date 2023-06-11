@@ -39,7 +39,7 @@ That's it! Your static web app is now deployed and accessible using the provided
 <h2><b> Project Demo Video:- https://www.youtube.com/watch?v=NDTA670OlQY</b></h2>
 
 <h2> Screenshot of services which we used </h2>
-<img src="http://surl.li/hxfxe">
+<img src="http://bit.ly/3CpLDgY">
 <br>
 <img src=" "http://surl.li/hxgia>
 ### Industry :
