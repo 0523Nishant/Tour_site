@@ -38,10 +38,7 @@ That's it! Your static web app is now deployed and accessible using the provided
 
 <h2><b> Project Demo Video:- https://www.youtube.com/watch?v=NDTA670OlQY</b></h2>
 
-<h2> Screenshot of services which we used </h2>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fazure%2Fservice-health%2Fservice-health-overview&psig=AOvVaw3-LRJ6l9EXpxRH9bPW_vxq&ust=1686584783206000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNiy_4nIu_8CFQAAAAAdAAAAABAE">
-<br>
-<img src=" https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.geeksforgeeks.org%2Fmicrosoft-azure-deploy-a-static-web-app%2F&psig=AOvVaw1lUWIaW1IYOHENTLQ9Gc0b&ust=1686585354757000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPjms5rKu_8CFQAAAAAdAAAAABAE">
+
 ### Industry :
 Lifestyle
 
